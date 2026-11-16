@@ -1,0 +1,1 @@
+Add your own portrait photo in this folder and name it profile.jpg. The page will show it automatically.
